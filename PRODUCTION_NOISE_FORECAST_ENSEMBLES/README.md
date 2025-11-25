@@ -30,7 +30,6 @@ Accurate quantification of production forecast uncertainty is essential for data
 ├── DAILY_PRODUCTION.csv                   # Bakken well observations used for noise fitting
 ├── Forecast_Input_Parameters.xlsx         # Parameter ranges for synthetic Arps ensembles
 ├── Production_Noise_Forecast_Ensembles.ipynb   # End-to-end PNFE workflow
-├── Production_Noise Forecast_Ensembles_copy.ipynb # Working scratch notebook
 ├── Production_noise_modeling.ipynb        # Noise diagnostics (variograms, GED fitting, ADF)
 ├── example_variogram.ipynb                # Stand-alone variogram tutorial
 └── LICENSE                                # MIT license text
